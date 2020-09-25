@@ -1,4 +1,4 @@
-package com.osa.base;
+package com.osa.random;
 
 public class Browser {
 
